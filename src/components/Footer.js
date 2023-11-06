@@ -1,5 +1,5 @@
 
-export default function() {
+export default function Footer() {
     return (
         <footer>
         <small>Copyright © 2023 | all rights reserved </small>
