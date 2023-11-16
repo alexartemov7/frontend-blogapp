@@ -1,7 +1,5 @@
 import { useEffect ,useState} from "react"
 
-
-
 export default function CardContainer() {
     const [blogPosts, setBlogPosts] = useState([]);
     //1. As soon as component loads -fetch data
